@@ -1,0 +1,5 @@
+D:\Hamit\yazilim\patikac\if_else_if\obj\Debug\net7.0\if_else_if.csproj.AssemblyReference.cache
+D:\Hamit\yazilim\patikac\if_else_if\obj\Debug\net7.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamit\yazilim\patikac\if_else_if\obj\Debug\net7.0\if_else_if.AssemblyInfoInputs.cache
+D:\Hamit\yazilim\patikac\if_else_if\obj\Debug\net7.0\if_else_if.AssemblyInfo.cs
+D:\Hamit\yazilim\patikac\if_else_if\obj\Debug\net7.0\if_else_if.csproj.CoreCompileInputs.cache
